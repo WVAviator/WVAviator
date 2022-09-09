@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🛫 About Me:
 I am a self-taught software engineer<br>I currently attend Codesmith's part-time remote immersive program<br>I am proficient with JavaScript, HTML, CSS, Typescript and React<br>I enjoy learning new technologies and engineering best practices
 
 
