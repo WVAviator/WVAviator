@@ -20,7 +20,7 @@
 <p>A command line application that let's you play your favorite music right in the terminal with a fun animated interface.</p>
   <p>Node | Typescript | React (Ink) | Puppeteer</p>
   <h3><a href="https://github.com/WVAviator/pals-of-paws-society">Pals of Paws Society</a></h3>
-<p>Pals of Paws Society is a nonprofit organization dedicated to reducing pet overpopulation in Northwest Mississippi. Their website accepts donations, displays adoptable animals, and enables the organization to manage fundraisers and other events. This website is live and can be <a href="https://www.palspfpawssociety.org/">viewed here</a>.</p>
+<p>Pals of Paws Society is a nonprofit organization dedicated to reducing pet overpopulation in Northwest Mississippi. Their website accepts donations, displays adoptable animals, and enables the organization to manage fundraisers and other events. This website is live and can be <a href="https://www.palsofpawssociety.org/">viewed here</a>.</p>
   <p>React | Typescript | Next.js | SCSS | MaterialUI | Sanity | Stripe</p>
 
 
