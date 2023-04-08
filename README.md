@@ -17,6 +17,9 @@
 <p>Chalkboard is a web application that combines the functionality of a code editor with a canvas for drawing and diagramming. It is designed for educators and developers who want to explain concepts through code and visuals.</p>
   <p><a href="https://chalkboard.wvaviator.com">View Site</a></p>
   <p>React | Typescript | Next.js | MongoDB | Next-Auth | MaterialUI | Zustand | S3 | Jest</p>
+  <h3><a href="https://github.com/WVAviator/mixerai">MixerAI</a></h3>
+<p>MixerAI is a cross-platform mobile application that allows users to feed a prompt into AI that generates a novelty cocktail drink recipe based on the prompt.</p>
+  <p>React Native | Typescript | NestJS | MongoDB | Passport | Jest | OpenAI | S3 | Expo</p>
   <h3><a href="https://github.com/WVAviator/music-browser-cli">Music Browser CLI</a></h3>
 <p>A command line application that let's you play your favorite music right in the terminal with a fun animated interface.</p>
   <p>Node | Typescript | React (Ink) | Puppeteer | Jest</p>
