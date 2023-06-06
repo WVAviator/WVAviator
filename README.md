@@ -14,7 +14,7 @@
 <h2 align="left">🚧 Top Projects</h2>
   <!-- -->
   <h3><a href="https://github.com/WVAviator/podwatch">Podwatch</a></h3>
-<p>Podwatch is a Kubernetes error monitoring and tracking service and application developed in partnership with [OSLabs](https://www.opensourcelabs.io/).</p>
+<p>Podwatch is a Kubernetes error monitoring and tracking service and application developed in partnership with <a href="https://www.opensourcelabs.io/">OSLabs</a>.</p>
   <p><a href="https://www.podwatch.dev">View Site</a></p>
   <p>TypeScript | Node.js | Kubernetes | Helm | Docker | Express | Next.js | MongoDB</p>
   <!-- -->
