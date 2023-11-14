@@ -12,6 +12,10 @@
 
 <h2 align="left">🚧 Top Projects</h2>
   <!-- -->
+    <h3><a href="https://github.com/WVAviator/myco-kv">MycoKV</a></h3>
+<p>A fast, hierarchical, in-memory key-value database built in Rust.</p>
+  <p>Rust | Cargo | Serde | Docker</p>
+    <!-- -->
   <h3><a href="https://github.com/WVAviator/podwatch">Podwatch</a></h3>
 <p>Podwatch is a Kubernetes error monitoring and tracking service and application developed in partnership with <a href="https://www.opensourcelabs.io/">OSLabs</a>.</p>
   <p><a href="https://www.podwatch.dev">View Site</a></p>
@@ -25,10 +29,6 @@
   <h3><a href="https://github.com/WVAviator/mixerai">MixerAI</a></h3>
 <p>MixerAI is a cross-platform mobile application that allows users to feed a prompt into AI that generates a novelty cocktail drink recipe based on the prompt.</p>
   <p>React Native | Typescript | NestJS | MongoDB | Passport | Jest | OpenAI | S3 | Expo</p>
-    <!-- -->
-  <h3><a href="https://github.com/WVAviator/music-browser-cli">Music Browser CLI</a></h3>
-<p>A command line application that let's you play your favorite music right in the terminal with a fun animated interface.</p>
-  <p>Node | Typescript | React (Ink) | Puppeteer | Jest</p>
     <!-- -->
   <h3><a href="https://github.com/WVAviator/pals-of-paws-society">Pals of Paws Society</a></h3>
 <p>Pals of Paws Society is a nonprofit organization dedicated to reducing pet overpopulation in Northwest Mississippi. Their website accepts donations, displays adoptable animals, and enables the organization to manage fundraisers and other events.</p>
