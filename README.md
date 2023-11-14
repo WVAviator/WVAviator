@@ -1,6 +1,6 @@
 # ✈️ About Me:
 
-📚 I am a dedicated full stack engineer with proven experience<br>🎓 I have graduated from Codesmith's part-time remote immersive program<br>💻 I am proficient with JavaScript, HTML, CSS, Typescript, Node.js, and React<br>⌨️ I enjoy learning new technologies and engineering best practices
+📚 I am a dedicated full stack engineer with proven experience<br>🎓 I am a Computer Science student at Western Governor's University<br>💻 I am proficient with Typescript, Node.js, React, HTML, CSS, Rust, and Java<br>⌨️ I enjoy learning new technologies, design patterns, and engineering best practices
 
 <h2 align="left">📡 Social Media</h2>
 <p align="left">
