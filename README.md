@@ -1,6 +1,6 @@
 # ✈️ About Me:
 
-📚 I am a dedicated full stack engineer with proven experience<br>🎓 I am a Computer Science student at Western Governor's University<br>💻 I am proficient with Typescript, Node.js, React, HTML, CSS, Rust, and Java<br>⌨️ I enjoy learning new technologies, design patterns, and engineering best practices
+📚 I am a dedicated full stack engineer with freelance and enterprise development experience<br>🎓 I possess both Bachelor of Science in Computer Science and Master of Business Administration degrees<br>💻 I am proficient with Java, Typescript/JavaScript, Rust, and Python programming languages<br>⌨️ I enjoy learning new technologies, design patterns, and engineering best practices
 
 <h2 align="left">📡 Social Media</h2>
 <p align="left">
