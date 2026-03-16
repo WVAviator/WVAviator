@@ -38,8 +38,15 @@
   <p>React | Typescript | Next.js | SCSS | MaterialUI | Sanity | Stripe | Redis</p>
   <!-- -->
 
-# 📊 GitHub Stats:
+# Contributions
 
+## Personal
+<img src="http://ghchart.rshah.org/wvaviator" alt="wvaviator's ghchart" />
+
+## Work
+<img src="http://ghchart.rshah.org/ubiquialex" alt="ubiquialex's ghchart" />
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wvaviator&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wvaviator&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wvaviator&exclude_repo=JonnyApple,Balloon-Frenzy,TopDownCharacter,Wildfire,Etched,Flight-Sim-Repo&theme=dark&hide_border=false)
