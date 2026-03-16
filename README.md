@@ -10,7 +10,16 @@
 <a href="https://www.leetcode.com/wvaviator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wvaviator" height="50" width="60" /></a>
 </p>
 
-<h2 align="left">🚧 Top Projects</h2>
+# ✏️ Contributions
+
+## Personal
+<img src="http://ghchart.rshah.org/wvaviator" alt="wvaviator's ghchart" />
+
+## Work
+<img src="http://ghchart.rshah.org/409ba5/ubiquialex" alt="ubiquialex's ghchart" />
+
+# 🚧 Top Projects
+
   <h3><a href="https://github.com/WVAviator/capti">Capti</a></h3>
 <p>Capti is an end-to-end testing framework for REST APIs, utilizing YAML syntax for defining API requests and expected responses.</p>
   <p><a href="https://www.npmjs.com/package/capti">NPM Package</a></p>
@@ -38,16 +47,9 @@
   <p>React | Typescript | Next.js | SCSS | MaterialUI | Sanity | Stripe | Redis</p>
   <!-- -->
 
-# Contributions
-
-## Personal
-<img src="http://ghchart.rshah.org/wvaviator" alt="wvaviator's ghchart" />
-
-## Work
-<img src="http://ghchart.rshah.org/ubiquialex" alt="ubiquialex's ghchart" />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wvaviator&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=wvaviator&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wvaviator&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wvaviator&exclude_repo=JonnyApple,Balloon-Frenzy,TopDownCharacter,Wildfire,Etched,Flight-Sim-Repo&theme=dark&hide_border=false)
 
